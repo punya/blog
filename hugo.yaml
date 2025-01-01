@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Punya Biswal
+params:
+  bluesky: punyabiswal.bsky.social
+  github: punya
+  linkedin: punyabiswal
+  rss: true
+  avatar: punya.biswal@gmail.com
+  name: Punya Biswal
+  bio: Engineer and leader with a variety of interests
+module:
+  imports:
+    - path: github.com/nanxiaobei/hugo-paper
